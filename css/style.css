@@ -1,15 +1,23 @@
-.title {
-    font-family: monospace;
-    font-size: 2rem;
-}
-
 .primary-header {
-        padding:40px 20px;
-        background: #197ED1;
+        padding:15px 15px;
+        background: #1F2729;
         color:#fff;
 }
-
-.primary-header .title {
-    color: #fff;
+.col{
+    width: 40%; 
+    float: left;
+    text-align: center;
+    font-family: monospace;
+    margin: 0.685rem;
+    font-size: 2rem;
 }
-
+.title1sub{
+    
+    float: left;
+    text-align: left;
+    font-family: monospace;
+    margin: 0.685rem;
+    font-size: 0.8rem;
+    
+}
+    
